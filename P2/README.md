@@ -64,11 +64,23 @@ Los ficheros de monitorización (logs) de Apache2 se encuentran generalmente en 
 
 La diferencia clave entre access.log y error.log radica en su propósito y contenido. access.log registra solicitudes de acceso exitosas y se utiliza para rastrear el tráfico y el comportamiento de los clientes, mientras que error.log registra problemas y errores del servidor, lo que facilita la solución de problemas y la resolución de errores en Apache2. Ambos registros son esenciales para administrar y mantener un servidor web de manera efectiva.
 
+![Captura de pantalla 2023-10-05 100036](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/6d1c348b-c53f-4c27-8de2-f08f76ea4081)
+![Captura de pantalla 2023-10-05 100110](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/6274235c-d22d-44e4-a497-e61fa14c6ffd)
+
+La rotación de logs en Apache2 es un proceso importante que permite gestionar y mantener los archivos de registro (logs) generados por el servidor web Apache. La configuración de la rotación de logs de Apache2 se encuentra en el directorio /etc/logrotate.d/. Puedes crear un archivo de configuración específico para Apache2, como /etc/logrotate.d/apache2, o agregar las directivas en un archivo existente de configuración de logrotate.
+
 ## 8. ¿Qué es un Firewall? ¿Para qué sirve? ¿Por qué es necesario? Instale y configure un Firewall en la máquina virtual para que solo permita tráfico HTTP y HTTPS. Bloquee todo el resto de los puertos y demuestre su funcionamiento. ##
+
+Un firewall es una medida de seguridad que se utiliza para controlar y filtrar el tráfico de red que entra o sale de una red o un sistema informático. Su objetivo principal es proteger la red o el sistema de amenazas externas y garantizar la seguridad de los recursos y la información que se encuentra en ellos.
+![Captura de pantalla 2023-10-05 105502](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/0aebc83f-413f-4dd5-99f6-6c09a676b9e4)
 
 ## 9. Explica con tus palabras las diferentes partes de una URL ##
 
+Una URL es una dirección que te permite acceder a recursos en la web. El protocolo especifica cómo se debe acceder, el dominio señala dónde se encuentra el recurso, la ruta detalla la ubicación exacta, los parámetros envían datos adicionales y el fragmento te lleva a una sección específica dentro del recurso. Cada parte tiene un propósito y trabaja en conjunto para llevarte al recurso deseado en Internet.
+
 ## 10. Explica el funcionamiento del protocolo HTTP con tus palabras ##
+
+HTTP es el protocolo que permite que los navegadores web y los servidores web se comuniquen y compartan información en la World Wide Web. Funciona mediante la transmisión de solicitudes desde el navegador al servidor y el envío de respuestas desde el servidor de vuelta al navegador, permitiendo que los usuarios accedan a sitios web y consuman contenido en línea.
 
 ## 11. ¿Qué es un archivo .htaccess? Proporcione un ejemplo de cómo se puede utilizar para reescribir URL o restringir el acceso a ciertas partes de su sitio web. ##
 
