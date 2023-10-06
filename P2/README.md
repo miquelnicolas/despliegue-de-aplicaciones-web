@@ -84,3 +84,14 @@ HTTP es el protocolo que permite que los navegadores web y los servidores web se
 
 ## 11. ¿Qué es un archivo .htaccess? Proporcione un ejemplo de cómo se puede utilizar para reescribir URL o restringir el acceso a ciertas partes de su sitio web. ##
 
+Un archivo .htaccess es un archivo de configuración utilizado en servidores web que ejecutan el software Apache. El nombre "htaccess" es una abreviatura de "hipertexto de acceso", y estos archivos se utilizan para configurar y controlar aspectos específicos de cómo se sirven y gestionan los archivos en un directorio o subdirectorio particular de un sitio web.
+
+Reescribir URL:
+RewriteEngine On
+RewriteRule ^antiguo(.*)$ /nuevo$1 [R=301,L]
+
+Restricción de acceso a un directorio:
+AuthType Basic
+AuthName "Área Restringida"
+AuthUserFile /ruta/al/directorio/.htpasswd
+Require valid-user
