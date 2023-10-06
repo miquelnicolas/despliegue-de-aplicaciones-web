@@ -95,3 +95,5 @@ AuthType Basic
 AuthName "Área Restringida"
 AuthUserFile /ruta/al/directorio/.htpasswd
 Require valid-user
+
+link github: https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/tree/main/P2
