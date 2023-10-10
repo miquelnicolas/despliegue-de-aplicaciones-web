@@ -2,8 +2,14 @@
 
 ## Ejercicio 1 ##
 Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin:
+![Captura de pantalla 2023-10-10 100125](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/4fee2958-8403-4e33-a760-a8d75478c43f)
+![Captura de pantalla 2023-10-10 105154](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/a90182de-82d3-4b7c-be9e-b0336d8e55ad)
+![Captura de pantalla 2023-10-10 105233](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/077b2610-7e34-4d4a-ae99-9d5c007ef824)
+![Captura de pantalla 2023-10-10 105339](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/7fd608a3-5f73-4f67-9e1e-e0bab9ae83b4)
+![Captura de pantalla 2023-10-10 105417](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/cfcbe710-8b46-4f6d-adab-318d4d46f56f)
 
 
+Proporciona información detallada sobre la configuración y el estado del servidor. Este módulo es parte del conjunto de módulos conocidos como "mod_info" que se utilizan para obtener información sobre el servidor web Apache y su configuración.
 
 ## Ejercicio 2 ##
 Oculta la versión del sistema y sistema de apache.
