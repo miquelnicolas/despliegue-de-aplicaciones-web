@@ -22,6 +22,10 @@ Crea una carpeta en la raíz del path del servidor con el nombre public y otra c
 ![Captura de pantalla 2023-10-10 081436](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/8cabaf62-81ab-47c5-858c-e72e44a95fd6)
 
 
+![Captura de pantalla 2023-10-11 083423](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/2bf60b92-eea2-4683-825b-5af6774da739)
+![Captura de pantalla 2023-10-11 083517](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/4205dd40-1efe-4bf4-8357-2add67c485cb)
+
+![Captura de pantalla 2023-10-11 083255](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/bb9108bf-3deb-46c7-97f8-7ecaf1a61bd7)
 
 
 ## Ejercicio 4 ##
