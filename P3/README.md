@@ -3,9 +3,6 @@
 ## Ejercicio 1 ##
 Añade en tu servidor el módulo mod_info y explique para que se utiliza este plugin:
 ![Captura de pantalla 2023-10-10 100125](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/4fee2958-8403-4e33-a760-a8d75478c43f)
-![Captura de pantalla 2023-10-10 105154](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/a90182de-82d3-4b7c-be9e-b0336d8e55ad)
-![Captura de pantalla 2023-10-10 105233](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/077b2610-7e34-4d4a-ae99-9d5c007ef824)
-![Captura de pantalla 2023-10-10 105339](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/7fd608a3-5f73-4f67-9e1e-e0bab9ae83b4)
 ![Captura de pantalla 2023-10-10 105417](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/cfcbe710-8b46-4f6d-adab-318d4d46f56f)
 
 
@@ -14,6 +11,8 @@ Proporciona información detallada sobre la configuración y el estado del servi
 ## Ejercicio 2 ##
 Oculta la versión del sistema y sistema de apache.
 
+Modificar y añadir las dos últimas líneas en este archivo:
+![Captura de pantalla 2023-10-18 130515](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/2a31ce83-f2cd-4ccc-843f-da263ae75030)
 
 
 ## Ejercicio 3 ##
@@ -21,11 +20,12 @@ Crea una carpeta en la raíz del path del servidor con el nombre public y otra c
 
 ![Captura de pantalla 2023-10-10 081436](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/8cabaf62-81ab-47c5-858c-e72e44a95fd6)
 
-
-![Captura de pantalla 2023-10-11 083423](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/2bf60b92-eea2-4683-825b-5af6774da739)
-![Captura de pantalla 2023-10-11 083517](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/4205dd40-1efe-4bf4-8357-2add67c485cb)
-
-![Captura de pantalla 2023-10-11 083255](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/bb9108bf-3deb-46c7-97f8-7ecaf1a61bd7)
+![Captura de pantalla 2023-10-18 133901](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/2607daf3-4eff-470e-b9ba-22365df0eb36)
+![Captura de pantalla 2023-10-18 134039](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/5b7f3237-22a5-476e-acd1-64c50f58b0f2)
+![Captura de pantalla 2023-10-18 133533](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/63024504-d9bf-4eff-bd32-7db2aaf49c81)
+![Captura de pantalla 2023-10-18 133758](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/905d43ca-b1de-470d-a6d3-479b0229c03d)
+![Captura de pantalla 2023-10-18 134136](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/93aa900c-3b1b-4c30-9703-ad0d7be095bc)
+![Captura de pantalla 2023-10-18 134219](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/bf2dff6a-9f60-4c5e-b0aa-3c5d809e94cd)
 
 
 ## Ejercicio 4 ##
