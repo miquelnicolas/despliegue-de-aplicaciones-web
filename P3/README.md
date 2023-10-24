@@ -31,6 +31,8 @@ Crea una carpeta en la raíz del path del servidor con el nombre public y otra c
 ## Ejercicio 4 ##
 Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar el archivo .htacess para implementarlo.
 
+![Captura de pantalla 2023-10-24 094606](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/35937bb8-ea12-42ab-a550-6fce2e5c0bbb)
+
 ![Captura de pantalla 2023-10-24 094410](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/20f309a4-ad45-4753-a14e-b73f455ea8ec)
 
 ![Captura de pantalla 2023-10-24 094012](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/a33cb746-e53a-4b59-a865-4a74e49a2a10)
