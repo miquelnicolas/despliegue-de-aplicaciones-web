@@ -47,7 +47,7 @@ Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso ne
 ## Ejercicio 5 ##
 Muestra los directorios de Apache con un tema diferente. Puedes utilizar https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la atención.
 
-
+![Captura de pantalla 2023-10-30 125427](https://github.com/miquelnicolas/despliegue-de-aplicaciones-web/assets/144775437/d97fd4e8-2638-49a0-9b79-2595663d3e69)
 
 ## Ejercicio 6 ##
 (Extra: 1 punto) Crea tu propio tema para el ejercicio anterior, sin dependencias externas.
